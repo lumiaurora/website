@@ -31,7 +31,7 @@
   },
   "hero": {
     "eyebrow": "Sysadmin, infrastructure enthusiast, and hosting-focused builder",
-    "lede": "I'm an 18-year-old from Finland who loves IT, especially infrastructure, servers, hosting, system administration, networking, low-level systems, and performance-focused setups. I enjoy putting together custom hosting solutions with DDoS protection tailored to real needs, budgets, and workloads.",
+    "lede": "I'm an 18-year-old from Finland who loves IT, especially infrastructure, servers, hosting, system administration, networking, low-level systems, and performance-focused setups. I enjoy putting together custom hosting solutions with DDoS protection tailored to real needs, budgets, and workloads, and I like working with the software and hardware stacks that make those deployments actually hold up in practice.",
     "actions": [
       {
         "label": "Email me",
@@ -48,7 +48,8 @@
       "Custom hosting setups",
       "DDoS-protected solutions",
       "Infrastructure & servers",
-      "Best price/performance"
+      "Best price/performance",
+      "Kubernetes & XDP"
     ]
   },
   "profileCard": {
@@ -57,18 +58,19 @@
     "items": [
       "Works with infrastructure, servers, hosting, networking, and system administration with a strong focus on real-world performance",
       "Interested in DDoS-protected solutions built around budget, reliability, and the right price-to-performance ratio",
-      "Enjoys building practical setups and technical projects across Python, C, Java, and hands-on infrastructure work"
+      "Enjoys building practical setups and technical projects across Python, C, Java, and hands-on infrastructure work",
+      "Has experience around Wazuh, Wisp.gg, Pterodactyl, Pelican Panel, Kubernetes, Fortinet, Sophos, and XDP-oriented infrastructure thinking"
     ]
   },
   "about": {
     "label": "About me",
     "title": "I like making infrastructure feel fast, reliable, and worth the money",
-    "body": "Most of what I enjoy sits around hosting, systems, networking, and getting infrastructure right. I like understanding how servers behave under load, how to get better performance for the money, and how to pair the right provider stack with the right DDoS protection instead of throwing people at generic solutions that don't fit."
+    "body": "Most of what I enjoy sits around hosting, systems, networking, and getting infrastructure right. I like understanding how servers behave under load, how to get better performance for the money, and how to pair the right provider stack with the right DDoS protection instead of throwing people at generic solutions that don't fit. I also enjoy the operational side of platforms and tooling, from panels and monitoring to kernel-level or edge-level technologies that can improve how traffic is handled."
   },
   "focus": {
     "label": "Current focus",
     "title": "Building better hosting stacks with the right balance of performance and protection",
-    "body": "Right now I'm especially interested in hosting, system administration, infrastructure, and DDoS-protected deployments. I like combining provider knowledge with practical tuning so the end result is fast, reliable, and cost-effective."
+    "body": "Right now I'm especially interested in hosting, system administration, infrastructure, and DDoS-protected deployments. I like combining provider knowledge with practical tuning so the end result is fast, reliable, and cost-effective, especially when platforms like Wisp.gg, Pterodactyl, Pelican Panel, Kubernetes, monitoring stacks, and firewall hardware all need to work together cleanly."
   },
   "checklist": {
     "label": "In my orbit",
@@ -76,7 +78,8 @@
       "Custom server hosting setups",
       "DDoS protection tailored to each use case",
       "Infrastructure, servers, and networking",
-      "Performance and price-to-performance tuning"
+      "Performance and price-to-performance tuning",
+      "Hosting platforms, firewalls, and traffic handling tech"
     ]
   },
   "contact": {

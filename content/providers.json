@@ -1,6 +1,6 @@
 {
   "label": "Provider experience",
-  "quote": "I've worked with CosmicGuard, Path.net, NeoProtect, TCPShield, Cloudflare, Gcore, Evolution Host, OVH, and many other providers to put together DDoS-protected solutions that actually make sense.",
+  "quote": "I've worked with CosmicGuard, Path.net, NeoProtect, TCPShield, Cloudflare, Gcore, Evolution Host, OVH, and many other providers to put together DDoS-protected solutions that actually make sense. On the software and operations side, I also enjoy working with stacks like Wazuh, Wisp.gg, Pterodactyl, Pelican Panel, Kubernetes, Fortinet firewalls, Sophos firewalls, and technologies like XDP.",
   "providers": [
     "CosmicGuard",
     "Path.net",
@@ -9,6 +9,14 @@
     "Cloudflare",
     "Gcore",
     "Evolution Host",
-    "OVH"
+    "OVH",
+    "Wazuh",
+    "Wisp.gg",
+    "Pterodactyl",
+    "Pelican Panel",
+    "Kubernetes",
+    "Fortinet",
+    "Sophos",
+    "XDP"
   ]
 }

@@ -12,11 +12,19 @@
     },
     {
       "title": "Game modding",
-      "body": "I also enjoy making funny mods for games like Subnautica, Terraria, and My Summer Car so I can mess around and have fun with friends."
+      "body": "I also enjoy making funny mods for games like Subnautica, Terraria, and My Summer Car so I can mess around and have fun with friends. I like the creative side of changing how games feel, especially when the end result is something chaotic and memorable to play together."
     },
     {
       "title": "Performance-minded builds",
       "body": "I care a lot about price-to-performance, practical tuning, and making sure the final setup feels right instead of overbuilt or overpriced."
+    },
+    {
+      "title": "Hosting platforms & tooling",
+      "body": "I like working with hosting and operations software such as Wazuh, Wisp.gg, Pterodactyl, Pelican Panel, and Kubernetes when building setups that need to be manageable as well as powerful."
+    },
+    {
+      "title": "Firewalls & packet path tech",
+      "body": "I'm also interested in firewall hardware and traffic-handling technologies, including Fortinet firewalls, Sophos firewalls, and lower-level technologies like XDP."
     }
   ],
   "topics": [
@@ -29,6 +37,14 @@
     "System administration",
     "Networking",
     "DDoS protection",
-    "Game modding"
+    "Game modding",
+    "Wazuh",
+    "Wisp.gg",
+    "Pterodactyl",
+    "Pelican Panel",
+    "Kubernetes",
+    "Fortinet",
+    "Sophos",
+    "XDP"
   ]
 }
