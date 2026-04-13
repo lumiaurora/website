@@ -1,0 +1,102 @@
+{
+  "meta": {
+    "title": "Lumi Aurora",
+    "description": "The personal website of Lumi Aurora, a Finnish sysadmin and infrastructure-focused developer into hosting, DDoS-protected solutions, performance tuning, and game modding."
+  },
+  "brand": {
+    "name": "Lumi Aurora",
+    "alias": "also known as 0x11a",
+    "avatar": {
+      "src": "https://github.com/lumiaurora.png?size=360",
+      "alt": "GitHub avatar of Lumi Aurora"
+    },
+    "navigation": [
+      {
+        "label": "About",
+        "href": "#about"
+      },
+      {
+        "label": "Interests",
+        "href": "#interests"
+      },
+      {
+        "label": "Focus",
+        "href": "#focus"
+      },
+      {
+        "label": "Connect",
+        "href": "#connect"
+      }
+    ]
+  },
+  "hero": {
+    "eyebrow": "Sysadmin, infrastructure enthusiast, and hosting-focused builder",
+    "lede": "I'm an 18-year-old from Finland who loves IT, especially infrastructure, servers, hosting, system administration, networking, low-level systems, and performance-focused setups. I enjoy putting together custom hosting solutions with DDoS protection tailored to real needs, budgets, and workloads.",
+    "actions": [
+      {
+        "label": "Email me",
+        "href": "mailto:yukicodes@outlook.com",
+        "variant": "primary"
+      },
+      {
+        "label": "Visit GitHub",
+        "href": "https://github.com/lumiaurora",
+        "variant": "secondary"
+      }
+    ],
+    "highlights": [
+      "Custom hosting setups",
+      "DDoS-protected solutions",
+      "Infrastructure & servers",
+      "Best price/performance"
+    ]
+  },
+  "profileCard": {
+    "label": "Highlights",
+    "title": "Hosting, infrastructure, and systems with hands-on provider experience",
+    "items": [
+      "Works with infrastructure, servers, hosting, networking, and system administration with a strong focus on real-world performance",
+      "Interested in DDoS-protected solutions built around budget, reliability, and the right price-to-performance ratio",
+      "Enjoys building practical setups and technical projects across Python, C, Java, and hands-on infrastructure work"
+    ]
+  },
+  "about": {
+    "label": "About me",
+    "title": "I like making infrastructure feel fast, reliable, and worth the money",
+    "body": "Most of what I enjoy sits around hosting, systems, networking, and getting infrastructure right. I like understanding how servers behave under load, how to get better performance for the money, and how to pair the right provider stack with the right DDoS protection instead of throwing people at generic solutions that don't fit."
+  },
+  "focus": {
+    "label": "Current focus",
+    "title": "Building better hosting stacks with the right balance of performance and protection",
+    "body": "Right now I'm especially interested in hosting, system administration, infrastructure, and DDoS-protected deployments. I like combining provider knowledge with practical tuning so the end result is fast, reliable, and cost-effective."
+  },
+  "checklist": {
+    "label": "In my orbit",
+    "items": [
+      "Custom server hosting setups",
+      "DDoS protection tailored to each use case",
+      "Infrastructure, servers, and networking",
+      "Performance and price-to-performance tuning"
+    ]
+  },
+  "contact": {
+    "label": "Connect",
+    "title": "Need a custom hosting setup with strong price-to-performance and DDoS protection tailored to you?",
+    "body": "Email me at yukicodes@outlook.com if you want help planning or building a hosting setup designed around your workload, budget, and protection needs. I love IT, and I enjoy putting together solutions that aim for the best performance and price-to-performance ratio without wasting money.",
+    "actions": [
+      {
+        "label": "yukicodes@outlook.com",
+        "href": "mailto:yukicodes@outlook.com",
+        "variant": "primary"
+      },
+      {
+        "label": "github.com/lumiaurora",
+        "href": "https://github.com/lumiaurora",
+        "variant": "secondary"
+      }
+    ]
+  },
+  "footer": {
+    "text": "Lumi Aurora / 0x11a - infrastructure, hosting, sysadmin, game modding, and all things IT."
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "label": "Interests",
+  "title": "The things I keep coming back to",
+  "cards": [
+    {
+      "title": "Hosting & sysadmin",
+      "body": "I like building and managing hosting setups that feel clean, stable, and fast, from the server layer up through the networking and operational side."
+    },
+    {
+      "title": "DDoS-protected solutions",
+      "body": "I enjoy comparing providers, balancing costs, and putting together tailored solutions with the protection level and routing that fit the actual use case."
+    },
+    {
+      "title": "Game modding",
+      "body": "I also enjoy making funny mods for games like Subnautica, Terraria, and My Summer Car so I can mess around and have fun with friends."
+    },
+    {
+      "title": "Performance-minded builds",
+      "body": "I care a lot about price-to-performance, practical tuning, and making sure the final setup feels right instead of overbuilt or overpriced."
+    }
+  ],
+  "topics": [
+    "Python",
+    "C",
+    "Java",
+    "Infrastructure",
+    "Servers",
+    "Hosting",
+    "System administration",
+    "Networking",
+    "DDoS protection",
+    "Game modding"
+  ]
+}

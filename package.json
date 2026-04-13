@@ -1,0 +1,27 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "description": "Portfolio website template for GitHub Pages with editable JSON content, CI, and contribution scaffolding.",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build-site.mjs",
+    "check:generated": "node scripts/check-site.mjs",
+    "validate:content": "node scripts/validate-content.mjs",
+    "lint:html": "htmlhint index.html",
+    "lint:css": "stylelint styles.css",
+    "lint:js": "eslint script.js \"scripts/**/*.mjs\"",
+    "format": "prettier --write \"**/*.{css,html,js,json,md,mjs,yml,yaml}\"",
+    "format:check": "prettier --check \"**/*.{css,html,js,json,md,mjs,yml,yaml}\"",
+    "check": "npm run validate:content && npm run build && npm run check:generated && npm run lint:html && npm run lint:css && npm run lint:js && npm run format:check",
+    "dev": "http-server -p 4173 -c-1 ."
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.25.0",
+    "eslint": "^9.25.0",
+    "globals": "^15.15.0",
+    "htmlhint": "^1.6.3",
+    "http-server": "^14.1.1",
+    "prettier": "^3.5.3",
+    "stylelint": "^16.16.0"
+  }
+}

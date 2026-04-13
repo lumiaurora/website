@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security report
+    url: mailto:yukicodes@outlook.com
+    about: Please report security issues privately by email.
