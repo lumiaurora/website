@@ -22,6 +22,6 @@
     "htmlhint": "^1.6.3",
     "http-server": "^14.1.1",
     "prettier": "^3.5.3",
-    "stylelint": "^16.16.0"
+    "stylelint": "^17.8.0"
   }
 }
