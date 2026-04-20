@@ -16,7 +16,7 @@
     "dev": "http-server -p 4173 -c-1 ."
   },
   "devDependencies": {
-    "@eslint/js": "^9.25.0",
+    "@eslint/js": "^10.0.1",
     "eslint": "^9.25.0",
     "globals": "^15.15.0",
     "htmlhint": "^1.6.3",
